@@ -1,5 +1,4 @@
- I'm a DevOps engineer with [X] years of experience building and automating cloud infrastructure and delivery pipelines. I focus on [e.g. reliable
-  CI/CD, infrastructure as code, and keeping systems observable and secure].
+ I'm a DevOps engineer with 8.5 years of experience building and automating cloud infrastructure and delivery pipelines. I focus on reliable CI/CD, infrastructure as code, and keeping systems observable and secure.
 
   I'm currently open to new DevOps / Cloud / SRE opportunities.
 
@@ -7,11 +6,11 @@
 
   | Area | Tools |
   |---|---|
-  | **Cloud** | [AWS / Azure / GCP] |
+  | **Cloud** | [AWS / Azure ] |
   | **IaC & Config** | [Terraform, Ansible] |
   | **Containers** | [Docker, Kubernetes, Helm] |
   | **CI/CD** | [GitHub Actions, Jenkins, GitLab CI, ArgoCD] |
-  | **Monitoring** | [Prometheus, Grafana, ELK] |
+  | **Monitoring** | [Prometheus, cloudwatch, Dynatrace] |
   | **Scripting** | [Bash, Python] |
   | **Security** | [Trivy, Vault, IAM] |
 
