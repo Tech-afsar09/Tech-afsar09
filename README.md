@@ -12,7 +12,7 @@
   | **CI/CD** | [Jenkins,Cloudbees,Codebuild Codepipeline,GitLab] |
   | **Monitoring** | [Prometheus, cloudwatch, Dynatrace] |
   | **Scripting** | [Bash, Python] |
-  | **Security** | [EPV, Key-Vault, IAM] |
+  | **Security** | [Sonar-scan,X-ray Scan ,EPV, Key-Vault, IAM] |
 
   ## Featured projects
 
