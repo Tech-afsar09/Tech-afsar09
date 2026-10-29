@@ -9,10 +9,10 @@
   | **Cloud** | [AWS / Azure ] |
   | **IaC & Config** | [Terraform, Ansible] |
   | **Containers** | [Docker, Kubernetes, Helm] |
-  | **CI/CD** | [GitHub Actions, Jenkins, GitLab CI, ArgoCD] |
+  | **CI/CD** | [Jenkins,Cloudbees,Codebuild Codepipeline,GitLab] |
   | **Monitoring** | [Prometheus, cloudwatch, Dynatrace] |
   | **Scripting** | [Bash, Python] |
-  | **Security** | [Trivy, Vault, IAM] |
+  | **Security** | [EPV, Key-Vault, IAM] |
 
   ## Featured projects
 
